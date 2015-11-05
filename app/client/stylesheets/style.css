@@ -19,7 +19,9 @@ body {
   color: #E5EDDC;
   text-align: center;
   width: 8em;
+  line-height: 60px;
 }
+
 
 .canoes {
   background-image: url('/images/pueo-canoes-front.jpg');
