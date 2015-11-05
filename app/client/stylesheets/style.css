@@ -1,5 +1,6 @@
 body {
   padding-top: 81px;  /* Move body of page below navbar. */
+  background-color: black;
 }
 
 .navbar-brand {
@@ -27,6 +28,41 @@ body {
   height: 385px;
 }
 
+.pueo {
+  background-image: url('/images/cover-pueo-page.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 385px;
+}
+
+.aukahi {
+  background-image: url('/images/cover-aukahi.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 385px;
+}
+
+.aukahi {
+  background-image: url('/images/cover-aukahi.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 385px;
+}
+
+.about {
+  background-image: url('/images/cover-about-eono.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 385px;
+}
+
+.kamanuv6 {
+  background-image: url('/images/cover-v6-page.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 385px;
+}
+
 .tagline {
   background-color: #000;
   height: 131px;
@@ -41,3 +77,4 @@ body {
   margin: 0;
   padding-top: 30px;
 }
+
